@@ -4,3 +4,10 @@ C:\Users\eahscs\Documents\GitHub\ACSL-practice\ACSL-practice\bin\Debug\ACSL-prac
 C:\Users\eahscs\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.csprojResolveAssemblyReference.cache
 C:\Users\eahscs\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.exe
 C:\Users\eahscs\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\bin\Debug\ACSL-practice.exe.config
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\bin\Debug\ACSL-practice.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\bin\Debug\ACSL-practice.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\ACSL-practice\ACSL-practice\obj\Debug\ACSL-practice.pdb
